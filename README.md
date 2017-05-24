@@ -15,7 +15,7 @@ The HTML:
 	</content>
 </element>
 ```
-Notice the blank div around the content. I purposefully did not have the plug in create it because I assume that you want as much control as possible over your own HTML/CSS. Please note that if all the content is floated inside that <div> the accordion will break; please use your own float fixes to ensure this div has a height.
+Notice the blank div around the content. I purposefully did not have the plug in create it because I assume that you want as much control as possible over your own HTML/CSS. Please note that if all the content is floated inside that `<div>` the accordion will break; please use your own float fixes to ensure this div has a height.
 
 The buttons and content elements can be set up however you like. Such as:
 ```
